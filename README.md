@@ -7,7 +7,7 @@ This repository contains the source code for my portfolio hosted using GitHub Pa
 I tried to show you what my everyday Macbook desktop screen looks like!
 
 <p align="center">
-  <img src="assets/portfolio_preview.png" width="700"/>
+  <img src="assets/portfolio_preview.png" width="780" href="https://swethaatgh.github.io/"/>
 </p>
 
 Find it at: https://SwethaatGH.github.io
